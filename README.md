@@ -7,8 +7,7 @@
 # 🔹 Qarch Next / Version X
 VPN Internet network proxy , Supports multiple proxy protocols, such as Shadowsocks, V2ray, Vmess, vless, Trojan, SSH
 
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-<a class="github-button" href="https://github.com/parsico/Qarch-Next/archive/HEAD.zip" data-color-scheme="no-preference: dark_dimmed; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download parsico/Qarch-Next on GitHub">Download</a>
+<a class="github-button" href="https://github.com/parsico" data-color-scheme="no-preference: dark_dimmed; light: light; dark: dark;" data-size="large" aria-label="Follow @parsico on GitHub">Follow @parsico</a>
 
 <div align="center">
 
