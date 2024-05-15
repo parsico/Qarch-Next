@@ -18,7 +18,7 @@ VPN Internet network proxy , Supports multiple proxy protocols, such as Shadowso
 
 <!---------------------------------------------------------------------------->
 
-[![Downloads](https://img.shields.io/github/v/release/parsico/Qarch-Next)]
+[release]: https://img.shields.io/github/v/release/parsico/Qarch-Next
 
 
 </div>
