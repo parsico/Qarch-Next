@@ -10,8 +10,61 @@ VPN Internet network proxy , Supports multiple proxy protocols, such as Shadowso
 
 <div align="center">
 
-[![Button Icon]][Link] 
-[Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+# Key Binding Buttons
+
+*You can use the* `<kbd>` *tag.*
+
+<br>
+<br>
+
+## Link Outside
+
+*The whole button is clickable,* <br>
+*but doesn't have any color.*
+
+<br>
+
+[<kbd> <br> Title <br> </kbd>][Link]
+
+<br>
+
+```markdown
+[<kbd> <br> Title <br> </kbd>][Link]
+```
+
+```markdown
+[Link]: # 'Link with example title.'
+```
+
+<br> 
+<br>
+
+## Link Inside
+
+*The button text is link colored,* <br>
+*but only the text is clickable.*
+
+<br>
+
+<kbd> <br> [Title][Link] <br> </kbd>
+
+<br>
+
+```markdown
+<kbd> <br> [Title][Link] <br> </kbd>
+```
+
+```markdown
+[Link]: # 'Link with example title.'
+```
+
+<br>
+
+
+<!---------------------------------------------------------------------------->
+
+[Link]: #
+
 
 </div>
 <br>
@@ -44,6 +97,3 @@ Vless, Vmess, Reality, TUIC, Hysteria, Wireguard, SSH etc.
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/parsico" data-color-scheme="no-preference: dark_dimmed; light: light; dark: dark;" data-size="large" aria-label="Follow @parsico on GitHub">Follow @parsico</a>
 
-
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
