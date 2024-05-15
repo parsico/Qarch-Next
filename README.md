@@ -8,8 +8,7 @@
 VPN Internet network proxy , Supports multiple proxy protocols, such as Shadowsocks, V2ray, Vmess, vless, Trojan, SSH
 
 <div align="center">
-[![Downloads](https://img.shields.io/github/downloads/parsico/Qarch-Next/total?style=flat-square&logo=github)](https://github.com/parsico/Qarch-Next/releases) 
-[![Last Version](https://img.shields.io/github/release/parsico/Qarch-Next/all.svg?style=flat-square)](https://github.com/parsico/Qarch-Next/releases/)
+[![Downloads](https://img.shields.io/github/downloads/parsico/Qarch-Next/total?style=flat-square&logo=github)](https://github.com/parsico/Qarch-Next/releases) [![Last Version](https://img.shields.io/github/release/parsico/Qarch-Next/all.svg?style=flat-square)](https://github.com/parsico/Qarch-Next/releases)
 
 </div>
 
