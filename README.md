@@ -13,7 +13,6 @@ VPN Internet network proxy , Supports multiple proxy protocols, such as Shadowso
 [![Button Icon]][Link] 
 
 <br>
-
 <br>
 
 [Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
@@ -46,4 +45,9 @@ Vless, Vmess, Reality, TUIC, Hysteria, Wireguard, SSH etc.
 
 
 ## 🎯 Donation and Support
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/parsico" data-color-scheme="no-preference: dark_dimmed; light: light; dark: dark;" data-size="large" aria-label="Follow @parsico on GitHub">Follow @parsico</a>
 
+
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
