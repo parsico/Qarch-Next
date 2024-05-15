@@ -1,5 +1,5 @@
 <div dir="ltr">
-<p align="center"><img src="https://raw.githubusercontent.com/parsico/Qarch-Next/main/Qarch-Next.png" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/parsico/Qarch-Next/main/Qarch.png" /></p>
 
 <br>
 
@@ -9,6 +9,7 @@ VPN Internet network proxy , Supports multiple proxy protocols, such as Shadowso
 <div align="center">
 
 [![android-bt]][android]
+[![windows-bt]][windows]
 
 <br>
 
@@ -17,10 +18,12 @@ VPN Internet network proxy , Supports multiple proxy protocols, such as Shadowso
 
 [Link]: #
 [android]: https://github.com/parsico/Qarch-Next/releases
+[windows]: #
 
 [release]: https://img.shields.io/github/v/release/parsico/Qarch-Next
 [star]: https://img.shields.io/github/stars/parsico
 [android-bt]: https://img.shields.io/badge/Qarch%20Next-Android-07312b?style=for-the-badge&logoColor=white&logo=DocuSign
+[windows-bt]: https://img.shields.io/badge/Qarch%20Next-Windows%20(soon)-07312b?style=for-the-badge&logoColor=white&logo=DocuSign
 
 </div>
 <br>
@@ -50,6 +53,4 @@ Vless, Vmess, Reality, TUIC, Hysteria, Wireguard, SSH etc.
 
 
 ## 🎯 Donation and Support
-<!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/parsico" data-color-scheme="no-preference: dark_dimmed; light: light; dark: dark;" data-size="large" aria-label="Follow @parsico on GitHub">Follow @parsico</a>
-
