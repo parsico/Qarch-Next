@@ -16,6 +16,10 @@ VPN Internet network proxy , Supports multiple proxy protocols, such as Shadowso
 
 [android]: https://github.com/parsico/Qarch-Next/releases
 
+<!---------------------------------------------------------------------------->
+
+[![Downloads](https://img.shields.io/github/v/release/parsico/Qarch-Next)]
+
 
 </div>
 <br>
