@@ -4,7 +4,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/parsico/Qarch-Next/main/Qarch.png" /></p>
 <br>
 
-# Qarch-Next - Version X
+# 🔹 Qarch Next / Version X
 VPN Internet network proxy , Supports multiple proxy protocols, such as Shadowsocks, V2ray, Vmess, vless, Trojan, SSH
 
 <div align="center">
