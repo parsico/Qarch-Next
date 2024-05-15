@@ -10,7 +10,7 @@ VPN Internet network proxy , Supports multiple proxy protocols, such as Shadowso
 <div align="center">
 
     
-[![Downloads](https://img.shields.io/github/downloads/parsico/qarch-next/total?style=flat-square&logo=github)](https://github.com/parsico/Qarch-Next/releases)[![Last Version](https://img.shields.io/github/release/hiddify/hiddify-next/all.svg?style=flat-square)](https://github.com/hiddify/hiddify-next/releases/)[![Telegram Group](https://img.shields.io/endpoint?color=neon&label=Support%20Group&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fhiddify_board)](https://telegram.dog/hiddify_board/5)
+[![Downloads](https://img.shields.io/github/downloads/parsico/Qarch-Next/total?style=flat-square&logo=github)](https://github.com/parsico/Qarch-Next/releases)[![Last Version](https://img.shields.io/github/release/parsico/Qarch-Next/all.svg?style=flat-square)](https://github.com/parsico/Qarch-Next/releases/)[![Telegram Group](https://img.shields.io/endpoint?color=neon&label=Support%20Group&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fhiddify_board)](https://telegram.dog/hiddify_board/5)
 
 </div>
 
