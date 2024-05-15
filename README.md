@@ -8,7 +8,8 @@
 VPN Internet network proxy , Supports multiple proxy protocols, such as Shadowsocks, V2ray, Vmess, vless, Trojan, SSH
 
 <div align="center">
-[![Download](https://img.shields.io/badge/Download-آخرین%20نسخه-brightgreen)](https://github.com/parsico/Qarch-Next/releases/latest/download)
+[![Badge License]][License]   
+[![Badge Likes]][#]
 
 </div>
 <br>
