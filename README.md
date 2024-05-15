@@ -13,17 +13,19 @@ VPN Internet network proxy , Supports multiple proxy protocols, such as Shadowso
 
 <br>
 
-[![release]][Link]
+[![release]][rLink]
 [![star]][Link]
 
+<!------------------------LINKS-------------------------->
 [Link]: #
-[android]: https://github.com/parsico/Qarch-Next/releases
+[android]: https://github.com/parsico/Qarch-Next/releases/download/version-X/Qarch-Next.apk
 [windows]: #
-
+[rLink]: https://github.com/parsico/Qarch-Next/releases
+<!------------------------BUTTONS-------------------------->
 [release]: https://img.shields.io/github/v/release/parsico/Qarch-Next
 [star]: https://img.shields.io/github/stars/parsico
 [android-bt]: https://img.shields.io/badge/Qarch%20Next-Android-07312b?style=for-the-badge&logoColor=white&logo=DocuSign
-[windows-bt]: https://img.shields.io/badge/Qarch%20Next-Windows%20(soon)-07312b?style=for-the-badge&logoColor=white&logo=DocuSign
+[windows-bt]: https://img.shields.io/badge/Qarch-Windows-07312b?style=for-the-badge&logoColor=white&logo=DocuSign
 
 </div>
 <br>
