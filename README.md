@@ -8,34 +8,29 @@
 VPN Internet network proxy , Supports multiple proxy protocols, such as Shadowsocks, V2ray, Vmess, vless, Trojan, SSH
 
 <div align="center">
-[![Downloads](https://img.shields.io/github/downloads/parsico/qarch-next/total?style=flat-square&logo=github)](https://github.com/parsico/qarch-next/releases) 
-[![Last Version](https://img.shields.io/github/release/parsico/qarch-next/all.svg?style=flat-square)](https://github.com/parsico/qarch-next/releases)
-
 
 </div>
 
-## 🚀 Main features
+## 🚀 Qarch Next features
 
-✈️ Multi-platform: Android, iOS, Windows, macOS and Linux
+🌙 Dark and light modes
+
+🔍 Delay based node selection
 
 ⭐ Intuitive and accessible UI
 
-🔍 Delay based node selection
+🔄 Automatic subscription update
+
+🛡 Open source, secure and community driven
+
+⚙ Compatible with all proxy management panels
 
 🟡 Wide range of protocols:
 Vless, Vmess, Reality, TUIC, Hysteria, Wireguard, SSH etc.
 
-🟡 Subscription link and configuration formats: Sing-box, V2ray, Clash, Clash meta
-
-🔄 Automatic subscription update
+🟡 Subscription link and configuration formats: Horizon, Sing-box, V2ray
 
 🔎 Display profile information including remaining days and traffic usage
-
-🛡 Open source, secure and community driven
-
-🌙 Dark and light modes
-
-⚙ Compatible with all proxy management panels
 
 ⭐ Appropriate configuration for Iran, China, Russia and other countries
 
