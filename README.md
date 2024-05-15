@@ -6,8 +6,7 @@
 
 # 🔹 Qarch Next / Version X
 VPN Internet network proxy , Supports multiple proxy protocols, such as Shadowsocks, V2ray, Vmess, vless, Trojan, SSH
-[![Badge License]][License]   
-[![Badge Likes]][#]
+
 
 <div align="center">
 
