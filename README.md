@@ -1,5 +1,5 @@
 <div dir="ltr">
-<p align="center"><img src="https://raw.githubusercontent.com/parsico/Qarch-Next/main/Qarch.png" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/parsico/Qarch-Next/main/Qarch-Next.png" /></p>
 
 <br>
 
