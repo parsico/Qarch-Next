@@ -60,4 +60,7 @@ Vless، Vmess، Reality، TUIC، Hysteria، Wireguard، SSH و غیره.
 [tel]: https://img.shields.io/badge/support-parsico-blue?style=for-the-badge&logoColor=white&logo=Telegram
 [tel-link]: https://t.me/parsicoorg
 
-☕️ Buy Me a Coffee (Tron): `TDCnjdujnHjcX6k8Mb7U6HpA27g8ZskCPi`
+☕️ برام یه قهوه بخر (ترون): `TDCnjdujnHjcX6k8Mb7U6HpA27g8ZskCPi`
+
+[Description in English
+](https://github.com/parsico/Qarch-Next/blob/main/README.md)
