@@ -95,17 +95,6 @@ Vless, Vmess, Reality, TUIC, Hysteria, Wireguard, SSH etc.
 
 </div>
 
-## ⚙️ Installation and tutorials
-
-**Find tutorial information on our wiki page by clicking on image below.**
-
-<div align="center">
-
-[![Tutorials on Wiki](https://github.com/hiddify/hiddify-next/assets/125398461/95bb5cf8-c143-4934-87d6-b9d4c31e035e)](https://hiddify.com/app/)
-
-
-</div>
-
 ## 🌎 Translations
 
 <div align=center>
