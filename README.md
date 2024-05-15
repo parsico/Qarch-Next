@@ -53,4 +53,7 @@ Vless, Vmess, Reality, TUIC, Hysteria, Wireguard, SSH etc.
 
 
 ## 🎯 Donation and Support
-<a class="github-button" href="https://github.com/parsico" data-color-scheme="no-preference: dark_dimmed; light: light; dark: dark;" data-size="large" aria-label="Follow @parsico on GitHub">Follow @parsico</a>
+[![release]][Link]
+
+[tel]: https://img.shields.io/badge/support-parsico-blue?style=for-the-badge&logoColor=white&logo=Telegram
+[tel-link]: https://t.me/parsicoorg
