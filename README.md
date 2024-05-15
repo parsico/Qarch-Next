@@ -61,3 +61,7 @@ Vless, Vmess, Reality, TUIC, Hysteria, Wireguard, SSH etc.
 [tel-link]: https://t.me/parsicoorg
 
 ☕️ Buy Me a Coffee (Tron): `TDCnjdujnHjcX6k8Mb7U6HpA27g8ZskCPi`
+
+
+[توضیحات به فارسی
+](https://github.com/parsico/Qarch-Next/blob/main/README_FA.md)
