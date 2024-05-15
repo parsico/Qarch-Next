@@ -34,6 +34,7 @@ Vless, Vmess, Reality, TUIC, Hysteria, Wireguard, SSH etc.
 
 ⭐ Appropriate configuration for Iran, China, Russia and other countries
 
+*/
 ## 📥 Direct Download
 
 <div align=left>
@@ -88,6 +89,7 @@ Vless, Vmess, Reality, TUIC, Hysteria, Wireguard, SSH etc.
 
 
 </div>
+/*
 
 ## ✏️ Acknowledgements
 
