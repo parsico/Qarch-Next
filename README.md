@@ -8,7 +8,7 @@ VPN Internet network proxy , Supports multiple proxy protocols, such as Shadowso
 
 <div align="center">
 
-[<kbd> <br> ⬇️ Download Android <br> </kbd>][android]
+[<kbd> <br> ⬇️ Download for Android <br> </kbd>][android]
 
 <br>
 
