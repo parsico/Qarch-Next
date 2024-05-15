@@ -10,7 +10,8 @@ VPN Internet network proxy , Supports multiple proxy protocols, such as Shadowso
 
 <div align="center">
 
-[<kbd> <br> Title <br> </kbd>][Link]
+[<kbd> <br> ⬇️ Download Anroid <br> </kbd>][Link]
+[Link]: https://github.com/parsico/Qarch-Next/releases 'Download Last Version'
 
 <br>
 
