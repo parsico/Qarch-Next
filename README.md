@@ -15,18 +15,6 @@ VPN Internet network proxy , Supports multiple proxy protocols, such as Shadowso
 
 </div>
 
-
-
-
-## What is Qarch Next app?
-
-<p dir="ltr" style="font-size: 16px">A multi-platform proxy client based on <a href="https://github.com/SagerNet/sing-box">Sing-box</a> universal proxy tool-chain. Hiddify offers a wide range of capabilities, like automatic node selection, TUN mode, remote profiles etc. Hiddify is ad-free and open-source. With support for a wide range of protocols, it provides a secure and private way for accessing free internet.</p>
-
-<div align=center>
-<img width=90% alt="English Demo" src="https://github.com/hiddify/hiddify-next/assets/125398461/ffe5346d-3404-470f-b5e0-4364e23743d2">
-
-</div>
-
 ## 🚀 Main features
 
 ✈️ Multi-platform: Android, iOS, Windows, macOS and Linux
