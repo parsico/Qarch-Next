@@ -59,3 +59,5 @@ Vless, Vmess, Reality, TUIC, Hysteria, Wireguard, SSH etc.
 
 [tel]: https://img.shields.io/badge/support-parsico-blue?style=for-the-badge&logoColor=white&logo=Telegram
 [tel-link]: https://t.me/parsicoorg
+
+☕️ Buy Me a Coffee (Tron): `TDCnjdujnHjcX6k8Mb7U6HpA27g8ZskCPi`
