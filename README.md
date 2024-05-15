@@ -8,9 +8,8 @@
 VPN Internet network proxy , Supports multiple proxy protocols, such as Shadowsocks, V2ray, Vmess, vless, Trojan, SSH
 
 <div align="center">
-<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+[![Download](https://img.shields.io/badge/Download-آخرین%20نسخه-brightgreen)](https://github.com/parsico/Qarch-Next/releases/latest/download)
 
-<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
 </div>
 <br>
 ## 🚀 Qarch Next features
