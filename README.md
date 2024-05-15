@@ -1,7 +1,6 @@
 <div dir="ltr">
-<br>
-
 <p align="center"><img src="https://raw.githubusercontent.com/parsico/Qarch-Next/main/Qarch.png" /></p>
+
 <br>
 
 # 🔹 Qarch Next / Version X
